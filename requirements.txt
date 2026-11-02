@@ -1,0 +1,2 @@
+# No third-party packages required (standard library only).
+# Python 3.8+ ; Tkinter is needed only for gui.py.
